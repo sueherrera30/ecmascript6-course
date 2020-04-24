@@ -21,7 +21,7 @@ function* helloWorld() {
 // para ejecutarla, en cosntante nueva la llamo.
 // asi pdore unsar valor next que me va a permitir
 // ejecutar la primera logica y obtener valor, segun sea el caso
-// y cuando vuelva a ejecutar siguiente valor next, va a recordar 
+// y cuando vuelva a ejecutar siguiente valor , va a recordar 
 // dodne esta la asignación logica qeu acabo de crear para msotrarme el swegund ovalor 
 // y asi por cada step que peuda tener la lagica
 const generatorHello = helloWorld();
