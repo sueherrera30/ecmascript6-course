@@ -1,5 +1,7 @@
 // PARAMETROS POR DEFECTO:
 // podemos establecer ciertos valores que pasamos a una función
+import { hello } from './module';
+
 
 function newFunction(name,age, country) {
 // poniamos valores por defecto de esta forma.
